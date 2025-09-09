@@ -61,6 +61,9 @@ The goal of this test suite is to:
 
 ## Setup Instructions
 
+### ⚠️ Important Note
+Do **NOT** perform manual tests before running the automated ones.
+
 ### 1. Clone Repositories
 
 Since this project was made with an older version of some packages, the package.json files must be altered. 
